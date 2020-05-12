@@ -38,6 +38,17 @@ Here is UML diagram
 - When you finish the game and you are connected to the internet the program will add your name, score ,accuracy and time to store in Google spreadsheets.
 - If you connect to the internet and come back to play the game again, the program will find your name in the spreadsheets and it can tell you what's your highest score.
 
+## How to run
+for .jar file
+'''
+java --module-path {your JavaFX lib directory} --add-modules javafx.controls,javafx.fxml -jar PA4-lisbono2001.jar
+'''
+
+for .java file 
+'''
+open MenuPage.java and run
+'''
+
 ## Technology used
 - JavaFX 11.0.2.
 - Google API library.
