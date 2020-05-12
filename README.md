@@ -40,14 +40,16 @@ Here is UML diagram
 
 ## How to run
 for .jar file
-'''
+
+```
 java --module-path {your JavaFX lib directory} --add-modules javafx.controls,javafx.fxml -jar PA4-lisbono2001.jar
-'''
+```
 
 for .java file 
-'''
+
+```
 open MenuPage.java and run
-'''
+```
 
 ## Technology used
 - JavaFX 11.0.2.
