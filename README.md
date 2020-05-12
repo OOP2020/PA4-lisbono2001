@@ -24,6 +24,10 @@ When the game ends, the player information will be written to google sheets.
 
 ![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI5.png)
 
+Here is UML diagram
+
+![](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/UML.png)
+
 ## Major features
 
 - Falling words will increase its speed over time.
