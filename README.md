@@ -9,14 +9,14 @@ By Theetouch Kasemarnontana
 This project is a graphical user interface for practicing your typing speed skill through the game. 
 
 Input player name and waiting page for loading information from the sheets also for players to prepare themself.
-                           |
-:-------------------------:|:-------------------------:
-![](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI1.png)  |  ![](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI2.png)
+
+
+![](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI6.jpg)
 
 
 Game play and show “Game Over” when you missed 10 words.
 
-![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI3.png) ![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI4.png)
+![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI7.jpg)
 
 
 
