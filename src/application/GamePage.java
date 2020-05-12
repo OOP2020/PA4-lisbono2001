@@ -164,7 +164,7 @@ public class GamePage extends Application {
 				// remove from list
 				droppingwords.remove(droppingwords.get(i));
 				Counter.miss++;
-				if (Counter.miss >= 2)
+				if (Counter.miss >= 10)
 					gameover();
 
 			}
