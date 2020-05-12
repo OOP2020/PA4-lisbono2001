@@ -10,18 +10,18 @@ This project is a graphical user interface for practicing your typing speed skil
 
 Input player name and waiting page for loading information from the sheets also for players to prepare themself.
 
-![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI1.png)
+![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI1.png) ![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI2.png)
 
 
 Game play and show “Game Over” when you missed 10 words.
 
-
+![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI3.png) ![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI4.png)
 
 
 
 When the game ends, the player information will be written to google sheets.
 
-
+![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI5.png)
 
 ## Major features
 
