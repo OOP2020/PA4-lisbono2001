@@ -46,6 +46,7 @@ public class MenuPage extends Application {
 		Scene scene = new Scene(root, 600, 400);
 		stage.setTitle("Typing Game");
 		stage.setScene(scene);
+		stage.setResizable(false);
 		stage.show();
 	}
 

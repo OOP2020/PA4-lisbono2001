@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PA4-lisbono2001:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d6e6ad-97a3-41b2-85bd-8e9a029bea34" name="Default Changelist" comment="" />
+    <list default="true" id="26d6e6ad-97a3-41b2-85bd-8e9a029bea34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PA4_lisbono2001_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/MenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/MenuPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +28,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="MenuPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,5 +82,31 @@
       <updated>1589286884067</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589287579744">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="500" y="275" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.947@0.23.1680.947" timestamp="1589287579744" />
+    <state width="1132" height="225" key="GridCell.Tab.0.bottom" timestamp="1589288865536">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1132" height="225" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1589288865536" />
+    <state width="1132" height="225" key="GridCell.Tab.0.center" timestamp="1589288865535">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1132" height="225" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1589288865535" />
+    <state width="1132" height="225" key="GridCell.Tab.0.left" timestamp="1589288865535">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1132" height="225" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1589288865535" />
+    <state width="1132" height="225" key="GridCell.Tab.0.right" timestamp="1589288865536">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1132" height="225" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1589288865536" />
+    <state x="384" y="101" key="SettingsEditor" timestamp="1589288260171">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="384" y="101" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1589288260171" />
   </component>
 </project>
