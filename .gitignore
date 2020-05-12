@@ -1,0 +1,20 @@
+*.class
+bin/
+build/
+out/
+.DS_[Ss]tore
+*.log
+# Python files
+__pycache__
+*.pyc
+# IDE files
+.idea
+*.iml
+*.ctxt
+.classpath
+classpath
+.settings
+.project
+.nbproject
+.vscode
+vscode
