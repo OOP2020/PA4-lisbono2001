@@ -4,7 +4,7 @@ Programming 2 Final Project
 
 By Theetouch Kasemarnontana
 
-About the application
+## About the application
 
 This project is a graphical user interface for practicing your typing speed skill through the game. 
 
