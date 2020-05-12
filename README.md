@@ -42,7 +42,7 @@ Here is UML diagram
 for .jar file
 
 ```
-java --module-path {your JavaFX lib directory} --add-modules javafx.controls,javafx.fxml -jar PA4-lisbono2001.jar
+java --module-path {your JavaFX lib directory} --add-modules javafx.controls -jar PA4-lisbono2001.jar
 ```
 
 for .java file 
