@@ -24,6 +24,8 @@ When the game ends, the player information will be written to google sheets.
 
 ![alt text](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/GUI5.png)
 
+(You can check the score board through this link https://docs.google.com/spreadsheets/d/1-j8qRJTLG_u9n3AWTVQ5B-N2fLM3Kz1xL0wvH88Pfv4/edit#gid=0 )
+
 Here is UML diagram
 
 ![](https://github.com/OOP2020/PA4-lisbono2001/blob/master/Photoes/UML.png)
